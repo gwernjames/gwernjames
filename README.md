@@ -18,8 +18,6 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
 
 ## 🛠️ Software & Languages I Use
 
-## 🛠️ Software & Languages I Use
-
 <div align="center" style="background-color: rgba(255,255,255,0.4); padding: 20px; border-radius: 12px; display: inline-block;">
 
   <!-- Python -->
