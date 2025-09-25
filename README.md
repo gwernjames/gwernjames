@@ -1,6 +1,7 @@
-# Siwmae, I'm Gwern James 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+# Siwmae 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-Welcome to my GitHub profile!  
+Welcome to my GitHub profile!
+
 I’m a self-motivated and approachable individual with experience as a Performance Analyst in rugby environments worldwide. I bring strong technical and soft skills, and I’m fluent in Welsh and English.
 
 I’m now transitioning into software development, focusing on QA automation. Having relied on software throughout my career, I believe in building tools that are reliable, efficient, and user-friendly.
