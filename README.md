@@ -1,8 +1,12 @@
 # Siwmae, I'm Gwern James 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 Welcome to my GitHub profile!  
-I’m passionate about **software development, QA automation, and sports analytics** 🏉.  
-Currently, I’m building tools that combine **computer vision, performance analysis, and automation** to make workflows faster and smarter.  
+I’m a self-motivated and approachable individual with experience as a Performance Analyst in rugby environments worldwide. I bring strong technical and soft skills, and I’m fluent in Welsh and English.
+
+I’m now transitioning into software development, focusing on QA automation. Having relied on software throughout my career, I believe in building tools that are reliable, efficient, and user-friendly.
+I’ve started my journey with Python, Selenium, and Playwright, and I’m excited to keep growing.
+
+💡 I’d love to collaborate on projects in test automation, performance analytics, or sports technology — anything that pushes boundaries and makes workflows smarter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gwernjames/" target="_blank">
@@ -35,15 +39,3 @@ Currently, I’m building tools that combine **computer vision, performance anal
   <img src="https://seeklogo.com/images/H/hudl-logo-82E6587A42-seeklogo.com.png" alt="Hudl" width="70" height="50"/>
 </p>
 
----
-
-## 📬 Get in Contact
-
-Want to collaborate, ask a question, or just say hi?  
-Click below to send me an email with your subject and message pre-filled:
-
-<p align="center">
-  <a href="mailto:your_email@example.com?subject=Hello%20Gwern!&body=Hi%20Gwern,%0D%0A%0D%0A[Write%20your%20message%20here...]">
-    <img src="https://img.shields.io/badge/📧_Email_Me-blue?style=for-the-badge" alt="Email Me"/>
-  </a>
-</p>
