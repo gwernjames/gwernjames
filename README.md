@@ -22,28 +22,35 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  
   <!-- Selenium (white) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo_White.svg" alt="Selenium" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50" style="filter: brightness(0) invert(1);"/>
+  
   <!-- Playwright -->
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/microsoft/playwright@main/assets/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+  
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  
   <!-- PyCharm -->
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50"/>
+  
   <!-- GitHub (light gray) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="filter: invert(70%);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="filter: brightness(0) invert(0.7);"/>
+  
   <!-- ChatGPT (white) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/openai-white.svg" alt="ChatGPT" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="ChatGPT" width="50" height="50" style="filter: brightness(0) invert(1);"/>
+  
   <!-- Gemini (colorful) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Gemini_logo.svg" alt="Gemini" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Gemini" width="50" height="50"/>
+  
   <!-- Microsoft -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft" width="50" height="50"/>
+  
   <!-- macOS (white apple) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_white.svg" alt="macOS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="50" height="50" style="filter: brightness(0) invert(1);"/>
+  
   <!-- Hudl -->
   <img src="https://seeklogo.com/images/H/hudl-logo-82E6587A42-seeklogo.com.png" alt="Hudl" width="70" height="50"/>
 
 </div>
-
-
-
