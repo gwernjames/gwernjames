@@ -1,12 +1,8 @@
-# 👋 Hi, I’m Gwern James
+# Siwmae, I'm Gwern James 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
 Welcome to my GitHub profile!  
 I’m passionate about **software development, QA automation, and sports analytics** 🏉.  
 Currently, I’m building tools that combine **computer vision, performance analysis, and automation** to make workflows faster and smarter.  
-
----
-
-## 🔗 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gwernjames/" target="_blank">
