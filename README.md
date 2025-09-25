@@ -38,6 +38,8 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlegemini.svg" alt="Gemini" width="50" height="50"/>
   <!-- Microsoft -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Microsoft" width="50" height="50"/>
+  <!-- macOS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="macOS" width="50" height="50"/>
   <!-- Hudl -->
   <img src="https://seeklogo.com/images/H/hudl-logo-82E6587A42-seeklogo.com.png" alt="Hudl" width="70" height="50"/>
 
