@@ -24,7 +24,7 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
   <img src="assets/logos/python.png" alt="Python" width="50" height="50"/>
   
   <!-- Selenium (white) -->
-  <img src="assets/logos/selenium-white.png" alt="Selenium" width="50" height="50"/>
+  <img src="assets/logos/selenium.png" alt="Selenium" width="50" height="50"/>
   
   <!-- Playwright -->
   <img src="assets/logos/playwright.png" alt="Playwright" width="50" height="50"/>
@@ -36,7 +36,7 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
   <img src="assets/logos/pycharm.png" alt="PyCharm" width="50" height="50"/>
   
   <!-- GitHub (light gray) -->
-  <img src="assets/logos/github-lightgray.png" alt="GitHub" width="50" height="50"/>
+  <img src="assets/logos/github.png" alt="GitHub" width="50" height="50"/>
   
   <!-- ChatGPT (white) -->
   <img src="assets/logos/chatgpt-white.png" alt="ChatGPT" width="50" height="50"/>
