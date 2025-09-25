@@ -48,9 +48,9 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
   <img src="assets/logos/microsoft.png" alt="Microsoft" width="50" height="50"/>
   
   <!-- macOS (white) -->
-  <img src="assets/logos/macos-white.png" alt="macOS" width="50" height="50"/>
+  <img src="assets/logos/macos.png" alt="macOS" width="50" height="50"/>
   
   <!-- Hudl -->
-  <img src="assets/logos/hudl.png" alt="Hudl" width="70" height="50"/>
+  <img src="assets/logos/hudl.png" alt="Hudl" width="50" height="50"/>
 
 </div>
