@@ -27,7 +27,8 @@ I’ve started my journey with Python, Selenium, and Playwright, and I’m excit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="50" height="50" style="filter: brightness(0) invert(1);"/>
   
   <!-- Playwright -->
-  <img src="https://cdn.jsdelivr.net/gh/microsoft/playwright@main/assets/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="50" height="50"/>
+ 
   
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
