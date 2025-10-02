@@ -24,7 +24,7 @@ I’ve started my journey with Python, JavaScript, Selenium, and Playwright, and
   <!-- Python -->
   <img src="assets/logos/python.png" alt="Python" width="50" height="50"/>
 
-    <!-- JavaScript -->
+  <!-- JavaScript -->
   <img src="assets/logos/javascript.png" alt="JavaScript" width="50" height="50"/>
   
   <!-- Selenium (white) -->
